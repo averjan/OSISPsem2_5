@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "driver1", "lab5\lab5.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "driver2", "driver2\driver2.vcxproj", "{D2A07780-5F50-40ED-8E68-50F84034C68E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LaunchService", "LaunchService\LaunchService.vcxproj", "{2FEA9E8F-AC98-4A0E-A565-3FCEB21D04D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -28,9 +30,9 @@ Global
 		{751BBF14-BBB8-4493-82E3-4DEF73EE34A4}.Debug|x64.ActiveCfg = Debug|x64
 		{751BBF14-BBB8-4493-82E3-4DEF73EE34A4}.Debug|x64.Build.0 = Debug|x64
 		{751BBF14-BBB8-4493-82E3-4DEF73EE34A4}.Debug|x64.Deploy.0 = Debug|x64
-		{751BBF14-BBB8-4493-82E3-4DEF73EE34A4}.Debug|x86.ActiveCfg = Debug|Win32
-		{751BBF14-BBB8-4493-82E3-4DEF73EE34A4}.Debug|x86.Build.0 = Debug|Win32
-		{751BBF14-BBB8-4493-82E3-4DEF73EE34A4}.Debug|x86.Deploy.0 = Debug|Win32
+		{751BBF14-BBB8-4493-82E3-4DEF73EE34A4}.Debug|x86.ActiveCfg = Debug|x64
+		{751BBF14-BBB8-4493-82E3-4DEF73EE34A4}.Debug|x86.Build.0 = Debug|x64
+		{751BBF14-BBB8-4493-82E3-4DEF73EE34A4}.Debug|x86.Deploy.0 = Debug|x64
 		{751BBF14-BBB8-4493-82E3-4DEF73EE34A4}.Release|ARM.ActiveCfg = Release|ARM
 		{751BBF14-BBB8-4493-82E3-4DEF73EE34A4}.Release|ARM.Build.0 = Release|ARM
 		{751BBF14-BBB8-4493-82E3-4DEF73EE34A4}.Release|ARM.Deploy.0 = Release|ARM
@@ -67,6 +69,18 @@ Global
 		{D2A07780-5F50-40ED-8E68-50F84034C68E}.Release|x86.ActiveCfg = Release|Win32
 		{D2A07780-5F50-40ED-8E68-50F84034C68E}.Release|x86.Build.0 = Release|Win32
 		{D2A07780-5F50-40ED-8E68-50F84034C68E}.Release|x86.Deploy.0 = Release|Win32
+		{2FEA9E8F-AC98-4A0E-A565-3FCEB21D04D8}.Debug|ARM.ActiveCfg = Debug|Win32
+		{2FEA9E8F-AC98-4A0E-A565-3FCEB21D04D8}.Debug|ARM64.ActiveCfg = Debug|Win32
+		{2FEA9E8F-AC98-4A0E-A565-3FCEB21D04D8}.Debug|x64.ActiveCfg = Debug|x64
+		{2FEA9E8F-AC98-4A0E-A565-3FCEB21D04D8}.Debug|x64.Build.0 = Debug|x64
+		{2FEA9E8F-AC98-4A0E-A565-3FCEB21D04D8}.Debug|x86.ActiveCfg = Debug|Win32
+		{2FEA9E8F-AC98-4A0E-A565-3FCEB21D04D8}.Debug|x86.Build.0 = Debug|Win32
+		{2FEA9E8F-AC98-4A0E-A565-3FCEB21D04D8}.Release|ARM.ActiveCfg = Release|Win32
+		{2FEA9E8F-AC98-4A0E-A565-3FCEB21D04D8}.Release|ARM64.ActiveCfg = Release|Win32
+		{2FEA9E8F-AC98-4A0E-A565-3FCEB21D04D8}.Release|x64.ActiveCfg = Release|x64
+		{2FEA9E8F-AC98-4A0E-A565-3FCEB21D04D8}.Release|x64.Build.0 = Release|x64
+		{2FEA9E8F-AC98-4A0E-A565-3FCEB21D04D8}.Release|x86.ActiveCfg = Release|Win32
+		{2FEA9E8F-AC98-4A0E-A565-3FCEB21D04D8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
